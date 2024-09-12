@@ -1,32 +1,15 @@
 # My Career Profile
 
 ## :book: Education
-**Master of Computer Applications (MCA)** &emsp; **2022-2024**
 
-_Ethiraj College For Women_
+| | Course | Institution | Period | Score |
+| --- | --- | --- | --- | --- |
+| |Master of Computer Applications (MCA)| Ethiraj College for Women|2022-2024|88%|
+| |BSc Computer Science| Anna Adarsh College for Women|2019-2022|88.01%|
+| |Higher Secondary Certificate (HSC)| Maharishi School of Excellence|2018-2019|86.4%|
+| |Secondary School Leaving Certificate (SSLC)| Maharishi School of Excellence|2016-2017|9.0 CGPA|
 
-Percentage-88%
-
-**BSc Computer Science** &emsp; **2019-2022**
-
-_Anna Adarsh College For Women_
-
-Percentange-88.01%
-
-**Higher Secondary Certificate (HSC)** &emsp;**2018-2019**
-
-_Maharishi School of Excellence_
-
-Percentage-86.4%
-
-**Secondary School Leaving Certificate (SSLC)** &emsp; **2016-2017**
-
-_Maharishi School of Excellence_
-
-CGPA-9.0
-
-
-##  :woman_technologist: Technical Skill
+##  :woman_technologist: Technical Skills
 * Python
 * Django
 * C
@@ -41,26 +24,23 @@ CGPA-9.0
 * Markdown
 
 ## :star2: Internships
-**Cyber Crime Wing**
+#### Cyber Crime Wing
+_June 2023 - August 2023_  
+I gained insights into cybersecurity cases, learning about cyber threats, NCRP, and emergency response via the 1930 helpline.
 
-_June 2023 - August 2023_
-
-**Webinative Technologies**
-
-_December 2023 - September 2024_
+#### Webinative Technologies
+_December 2023 - September 2024_  
+I developed consistency in task execution, improved communication with colleagues, and learned to seek assistance promptly when needed, ensuring smooth workflow.
 
 ## 🖥️ Projects
 #### Training Details Management System
-* Developed a system to streamline training management, reducing manual errors.
-* The project is developed using Microsoft Visual Studio and Microsoft SQL.
+I developed a system that automated the management of training records, replacing inefficient manual processes. Built using Microsoft Visual Studio and SQL Server, the system reduced errors and improved administrative efficiency. This project showcased my ability to create scalable and user-friendly applications.
 
 #### Credit Card Fraud Detection
-* Finding the credit card frauds from the dataset.
-* Designed a system to detect fraudulent credit card transactions using machine learning and deep learning algorithms.
+I built a fraud detection system using Python and machine learning algorithms to identify suspicious transactions. This project helped enhance real-time fraud prevention for financial institutions. It also strengthened my skills in data processing, model development, and applying AI in finance.
 
 #### CoDevs Automation Testing
-* Implemented automation testing to improve testing efficiency and accuracy.
-* The project uses selenium tool to test.
+I automated the testing process for CoDevs using Selenium, eliminating the time-consuming manual tests. This improved efficiency and accuracy in testing, ensuring faster delivery of high-quality software. The project deepened my expertise in test automation and integration with development workflows.
 
 ---
-[Blog](https://blog.codevs.in/u/keerthana/)
+[Blog](https://blog.codevs.in/u/keerthana/) | [LinkedIn](https://www.linkedin.com/in/keerthana-b-728087227/)
