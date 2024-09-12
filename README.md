@@ -61,3 +61,6 @@ _December 2023 - September 2024_
 #### CoDevs Automation Testing
 * Implemented automation testing to improve testing efficiency and accuracy.
 * The project uses selenium tool to test.
+
+---
+[Blog](https://blog.codevs.in/u/keerthana/)
